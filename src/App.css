@@ -1,0 +1,8 @@
+.app {
+    margin: auto;
+    width: 50vw;
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
